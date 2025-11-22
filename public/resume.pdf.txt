@@ -1,0 +1,10 @@
+PLACEHOLDER FILE
+
+Please replace this file with your actual resume PDF.
+
+To add your resume:
+1. Save your resume as "resume.pdf"
+2. Place it in the public/ directory
+3. Delete this placeholder file
+
+The download button is already configured in the navbar!

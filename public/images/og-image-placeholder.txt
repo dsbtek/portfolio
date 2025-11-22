@@ -1,0 +1,22 @@
+OPEN GRAPH IMAGE PLACEHOLDER
+
+Please create an Open Graph image (og-image.jpg) with these specifications:
+- Size: 1200x630 pixels
+- Format: JPG or PNG
+- Content: Your name, title, and a professional background
+- Tools: Canva, Figma, or Photoshop
+
+Recommended content:
+- Name: Muhammad Salihu
+- Title: AI / Full-stack Engineer
+- Background: Terminal-style or tech-themed
+- Colors: Match your portfolio (#0b0f12 background, #00ff85 accent)
+
+Once created, save as: public/images/og-image.jpg
+
+This image will appear when sharing your portfolio on:
+- Twitter
+- LinkedIn
+- Facebook
+- Slack
+- Discord
