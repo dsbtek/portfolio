@@ -32,9 +32,9 @@ export default function Experience() {
               {/* Current badge */}
               {exp.current && (
                 <div className="absolute top-4 right-4">
-                  {/* <span className="bg-accent/20 text-accent text-sm font-mono px-3 py-1 rounded-full border border-accent/50">
-                    {exp.endDate}
-                  </span> */}
+                  <span className="bg-accent/20 text-accent text-xs font-mono px-3 py-1 rounded-full border border-accent/50">
+                    Current
+                  </span>
                 </div>
               )}
 

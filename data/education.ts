@@ -15,35 +15,19 @@ export interface Education {
 export const educationData: Education[] = [
   {
     id: 'edu-1',
-    institution: 'University Name',
+    institution: 'Ahmadu Bello University',
     degree: 'Bachelor of Science',
     field: 'Computer Science',
-    location: 'City, Country',
-    startDate: '2015',
-    endDate: '2019',
-    description: 'Focused on software engineering, artificial intelligence, and data structures.',
+    location: 'Zaria, Nigeria',
+    startDate: 'May 2024',
+    endDate: 'May 2027',
+    description: 'Pursuing advanced studies in Computer Science with focus on software engineering, AI, and systems programming.',
     achievements: [
-      'Dean\'s List for Academic Excellence',
-      'Led university coding club',
-      'Graduated with honors'
+      'Strong commitment to continuous learning and excellence',
+      'Focus on software engineering and AI applications',
+      'Building foundation in computer science fundamentals'
     ],
-    gpa: '3.8/4.0',
     logo: 'https://images.unsplash.com/photo-1562774053-701939374585?w=400&h=400&fit=crop'
-  },
-  {
-    id: 'edu-2',
-    institution: 'Online Learning Platform',
-    degree: 'Professional Certificate',
-    field: 'Full-Stack Web Development',
-    location: 'Online',
-    startDate: '2020',
-    endDate: '2021',
-    description: 'Comprehensive program covering modern web technologies and best practices.',
-    achievements: [
-      'Completed 10+ real-world projects',
-      'Mastered React, Node.js, and TypeScript'
-    ],
-    logo: 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400&h=400&fit=crop'
   }
 ]
 

@@ -28,21 +28,21 @@ export interface AboutData {
 
 export const aboutData: AboutData = {
   name: 'Muhammad Salihu',
-  title: 'AI / Full-Stack Engineer',
-  tagline: 'Building intelligent solutions at the intersection of AI and web development',
+  title: 'Executive Senior Software Engineer',
+  tagline: 'Building scalable, high-performance applications with expertise in Software, AI and Data Engineering',
   profileImage: '/images/mypix1.jpg',
-  
+
   bio: [
-    'I\'m a passionate Full-Stack Engineer with a strong focus on AI integration and modern web technologies. With over 5 years of experience, I specialize in building scalable applications that leverage machine learning and artificial intelligence to solve real-world problems.',
-    'My journey in tech started with a curiosity about how things work under the hood. This led me to explore everything from low-level system programming to high-level AI architectures. Today, I combine this knowledge to create intelligent, user-friendly applications.',
-    'When I\'m not coding, you\'ll find me contributing to open-source projects, writing technical articles, or exploring the latest advancements in AI and web technologies. I believe in continuous learning and sharing knowledge with the community.',
+    'I am a seasoned Software Engineer with over seven years of professional experience in building scalable, high-performance applications using Python, JavaScript, C, C++, and C#. I have successfully delivered end-to-end solutions across multiple industries, leveraging my versatility in both high-level application development and low-level systems programming.',
+    'At SMARTFLOW TECHNOLOGIES LTD, I focus on refining enterprise-grade solutions through Internet of Things (IoT) innovations for remote monitoring. I\'ve played a pivotal role in enhancing the SmarEye application, ensuring it scales reliably to meet the dynamic and mission-critical demands of the Oil and Gas sector. My work involved upgrading legacy codebases and implementing robust CI/CD pipelines, significantly improving deployment efficiency and code quality.',
+    'My technical arsenal includes frameworks such as Django, FastAPI, React.js, Next.js, and Node.js, as well as deep experience with PostgreSQL, MySQL, and MongoDB. I\'ve also architected solutions involving machine learning, Bluetooth device communication, and real-time facial recognition, emphasizing performance, reliability, and clean architecture. I hold a Bachelor\'s degree in Computer Science from Ahmadu Bello University, Zaria, Nigeria, and maintain a strong commitment to continuous learning, mentorship, and excellence in software engineering.',
   ],
 
   highlights: [
     {
       icon: '💼',
       label: 'Experience',
-      value: '5+ Years',
+      value: '7+ Years',
     },
     {
       icon: '🚀',
@@ -63,41 +63,49 @@ export const aboutData: AboutData = {
 
   skills: [
     {
+      category: 'Programming Languages',
+      items: ['Python', 'JavaScript', 'TypeScript', 'C', 'C++', 'C#'],
+    },
+    {
       category: 'Frontend Development',
-      items: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS', 'Vue.js', 'Angular'],
+      items: ['React.js', 'Next.js', 'Vue.js', 'HTML/CSS', 'Tailwind CSS', 'Bootstrap'],
     },
     {
       category: 'Backend Development',
-      items: ['Node.js', 'Python', 'Django', 'FastAPI', 'Express', 'PostgreSQL', 'MongoDB'],
+      items: ['Django', 'FastAPI', 'Node.js', 'Express', 'Spring Boot', '.NET'],
+    },
+    {
+      category: 'Databases',
+      items: ['PostgreSQL', 'MySQL', 'MongoDB', 'Redis', 'SQL Server'],
     },
     {
       category: 'AI & Machine Learning',
-      items: ['TensorFlow', 'PyTorch', 'OpenAI API', 'LangChain', 'Hugging Face', 'Computer Vision'],
+      items: ['PyTorch', 'scikit-learn', 'TensorFlow', 'Computer Vision', 'Facial Recognition', 'Data Analysis'],
     },
     {
       category: 'DevOps & Cloud',
-      items: ['AWS', 'Docker', 'Kubernetes', 'CI/CD', 'GitHub Actions', 'Terraform'],
+      items: ['AWS', 'S3', 'Docker', 'CI/CD', 'GitHub Actions', 'IoT'],
     },
     {
-      category: 'Mobile Development',
-      items: ['React Native', 'Flutter', 'PWA', 'Ionic'],
+      category: 'Data Engineering',
+      items: ['Data Pipelines', 'ETL', 'Data Analysis', 'Big Data', 'Data Modeling'],
     },
   ],
 
   interests: [
     'Artificial Intelligence & Machine Learning',
-    'Open Source Contribution',
-    'Technical Writing & Blogging',
-    'Mentoring Junior Developers',
-    'UI/UX Design',
-    'Cloud Architecture',
-    'Blockchain Technology',
-    'Competitive Programming',
+    'IoT & Remote Monitoring Systems',
+    'Software Architecture & Design Patterns',
+    'Mentoring & Knowledge Sharing',
+    'Clean Code & Best Practices',
+    'DevOps & CI/CD Automation',
+    'Data Engineering & Analytics',
+    'Continuous Learning & Innovation',
   ],
 
   contact: {
-    email: 'muhammad.salihu@example.com',
-    location: 'Remote / Global',
+    email: 'dsbtek@gmail.com',
+    location: 'Minna, Niger State, Nigeria',
     availability: 'Open to opportunities',
   },
 
